@@ -1,5 +1,3 @@
 Hi I am Swarup
 
-I am a Data Scientist
-
-You can reach me at swarupsahoo@icloud.com
+My github is rarely maintained but I will try to add more shit that I work on sometime soon... maybe.
